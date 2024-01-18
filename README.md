@@ -17,7 +17,10 @@
 *   Google Collaboratory
 *   Tableau
 
+  **Bahasa pemrograman yang digunakan :**
 
+
+*   Python
 
 
     <br>

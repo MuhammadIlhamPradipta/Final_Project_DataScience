@@ -1,1 +1,3 @@
+
 *.python linguist-detectable=true
+*.googlecollaboratory linguist-detectable=true
